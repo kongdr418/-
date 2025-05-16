@@ -24,7 +24,7 @@
   环境准备
   需要安装Pyinstaller
 ```
-pip install pyinstaller --upgrade
+pip install pyinstaller
 ```
   生成的可执行文件点开后会开机自启动，可打开任务管理器中的启动应用查看（有时候是已禁用状态）
   
